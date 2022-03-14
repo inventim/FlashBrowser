@@ -3,7 +3,7 @@
 Source Code Only here
 
 
-Releases Are On https://github.com/TuraMax/FlashBrowser/
+Releases Are On https://github.com/SpilC/FlashBrowser/
 
 Copyright 2012-2016 HeliumSpark Studios
 
