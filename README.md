@@ -1,6 +1,5 @@
 # FlashBrowser
 
-Source Code Only here
 
 
 Copyright 2012-2016 HeliumSpark Studios
